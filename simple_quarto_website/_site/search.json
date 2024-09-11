@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Alligator Facts",
+    "section": "",
+    "text": "Fact\nDescription\n\n\n\n\nSpecies\nAmerican Alligator, Chinese Alligator\n\n\nLifespan\n30-50 years in the wild\n\n\nLength (Average)\n3.4 - 4.6 meters (11-15 feet)\n\n\nDiet\nCarnivorous: Fish, birds, mammals\n\n\nHabitat\nFreshwater rivers, lakes, swamps, and marshes\n\n\n\nBody growith of an alligator: \\(L = L_0 + r \\cdot t\\).\nForce of an alligators bite: \\[\nF=P⋅A\n\\]\n\n\n\nThis is the first column.\n\nAlligators can live up to 50 years in the wild.\nThe American alligator is the largest reptile in North America.\nAlligators are excellent swimmers due to their strong tails.\n\n\n\nSome of the text in the second column.\n\nAlligators can live up to 50 years in the wild.\nThe American alligator is the largest reptile in North America.\nAlligators are excellent swimmers due to their strong tails.\n\n\n\n\n\n\n\n\n\nAmerican Alligator\n\n\n\n\n\n\n\n\nAlligator in Swamp\n\n\n\n\n\n\n\n\n\n\ngraph TD;\n    Fish --&gt; Alligator;\n    Birds --&gt; Alligator;\n    Mammals --&gt; Alligator;\n\n\n\n\n\n\n\n\n\n\n\nAccording to Dan Brown (2006), “History is always written by the winners. When two cultures clash, the loser is obliterated, and the winner writes the history books-books which glorify their own cause and disparage the conquered foe. As Napoleon once said, ’What is history, but a fable agreed upon?”[@brown2006da].\n\n“Alligators and crocodiles may look alike, but they have different behaviors and habitats.” — Unknown\n\nAlligators have existed for over 150 million years, surviving through the dinosaur extinction 1."
+  },
+  {
+    "objectID": "index.html#alligator-facts-table",
+    "href": "index.html#alligator-facts-table",
+    "title": "Alligator Facts",
+    "section": "",
+    "text": "Fact\nDescription\n\n\n\n\nSpecies\nAmerican Alligator, Chinese Alligator\n\n\nLifespan\n30-50 years in the wild\n\n\nLength (Average)\n3.4 - 4.6 meters (11-15 feet)\n\n\nDiet\nCarnivorous: Fish, birds, mammals\n\n\nHabitat\nFreshwater rivers, lakes, swamps, and marshes\n\n\n\nBody growith of an alligator: \\(L = L_0 + r \\cdot t\\).\nForce of an alligators bite: \\[\nF=P⋅A\n\\]\n\n\n\nThis is the first column.\n\nAlligators can live up to 50 years in the wild.\nThe American alligator is the largest reptile in North America.\nAlligators are excellent swimmers due to their strong tails.\n\n\n\nSome of the text in the second column.\n\nAlligators can live up to 50 years in the wild.\nThe American alligator is the largest reptile in North America.\nAlligators are excellent swimmers due to their strong tails."
+  },
+  {
+    "objectID": "index.html#alligator-image-1",
+    "href": "index.html#alligator-image-1",
+    "title": "Alligator Facts",
+    "section": "",
+    "text": "American Alligator"
+  },
+  {
+    "objectID": "index.html#alligator-image-2",
+    "href": "index.html#alligator-image-2",
+    "title": "Alligator Facts",
+    "section": "",
+    "text": "Alligator in Swamp"
+  },
+  {
+    "objectID": "index.html#alligator-food-chain-diagram",
+    "href": "index.html#alligator-food-chain-diagram",
+    "title": "Alligator Facts",
+    "section": "",
+    "text": "graph TD;\n    Fish --&gt; Alligator;\n    Birds --&gt; Alligator;\n    Mammals --&gt; Alligator;"
+  },
+  {
+    "objectID": "index.html#alligator-vid",
+    "href": "index.html#alligator-vid",
+    "title": "Alligator Facts",
+    "section": "",
+    "text": "According to Dan Brown (2006), “History is always written by the winners. When two cultures clash, the loser is obliterated, and the winner writes the history books-books which glorify their own cause and disparage the conquered foe. As Napoleon once said, ’What is history, but a fable agreed upon?”[@brown2006da].\n\n“Alligators and crocodiles may look alike, but they have different behaviors and habitats.” — Unknown\n\nAlligators have existed for over 150 million years, surviving through the dinosaur extinction 1."
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Alligator Facts",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nAlligators are considered living fossils due to their ancient lineage.↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#introduction-to-alligators",
+    "href": "slides/slides.html#introduction-to-alligators",
+    "title": "Alligators & Random",
+    "section": "Introduction to Alligators",
+    "text": "Introduction to Alligators\n\nAlligators are large reptiles\nThey are native to the southeastern United States and China\n\n\nAmerican Alligator"
+  },
+  {
+    "objectID": "slides/slides.html#habitat-and-distribution",
+    "href": "slides/slides.html#habitat-and-distribution",
+    "title": "Alligators & Random",
+    "section": "Habitat and Distribution",
+    "text": "Habitat and Distribution\n\nAlligators primarily inhabit freshwater environments\nEx: rivers, lakes, and swamps\n\nimport numpy as np\nimport matplotlib.pyplot as plt\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(subplot_kw={'projection': 'polar'})\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\nAlligator in Swamp"
+  },
+  {
+    "objectID": "slides/slides.html#reproduction-and-life-cycle",
+    "href": "slides/slides.html#reproduction-and-life-cycle",
+    "title": "Alligators & Random",
+    "section": "Reproduction and Life Cycle",
+    "text": "Reproduction and Life Cycle\n\nAlligators lay eggs in nests made of vegetation.\nFemales protect the nests and assist hatchlings to water.\n\nAlligators have existed for over 150 million years, surviving through the dinosaur extinction 1.\n\n\n\n\n\n\nAlligators are considered living fossils due to their ancient lineage."
+  }
+]

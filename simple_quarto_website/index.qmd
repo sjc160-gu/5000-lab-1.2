@@ -1,0 +1,79 @@
+---
+title: "Alligator Facts"
+author: "Sarah Chambers"
+toc: true
+number-sections: true
+---
+
+
+# Welcome to Sarah's Website
+## The following are alligator facts
+### See below
+
+
+## Alligator Facts Table
+
+| Fact                  | Description                                         |
+|-----------------------|-----------------------------------------------------|
+| Species               | American Alligator, Chinese Alligator               |
+| Lifespan              | 30-50 years in the wild                             |
+| Length (Average)      | 3.4 - 4.6 meters (11-15 feet)                       |
+| Diet                  | Carnivorous: Fish, birds, mammals                   |
+| Habitat               | Freshwater rivers, lakes, swamps, and marshes       |
+
+Body growith of an alligator:
+$L = L_0 + r \cdot t$.
+
+Force of an alligators bite:
+$$
+F=P⋅A
+$$
+
+::: {.columns}
+
+#### Column 1
+
+This is the first column.
+
+- Alligators can live up to 50 years in the wild.
+- The American alligator is the largest reptile in North America.
+- Alligators are excellent swimmers due to their strong tails.
+
+#### Column 2
+
+Some of the text in the second column.
+
+- Alligators can live up to 50 years in the wild.
+- The American alligator is the largest reptile in North America.
+- Alligators are excellent swimmers due to their strong tails.
+
+:::
+
+## Alligator Image 1
+
+![American Alligator](images/alligator_2.jpg)
+
+## Alligator Image 2
+
+![Alligator in Swamp](images/alligator_1.jpg)
+
+## Alligator Food Chain Diagram
+```{mermaid}
+graph TD;
+    Fish --> Alligator;
+    Birds --> Alligator;
+    Mammals --> Alligator;
+```
+
+## Alligator Vid
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/boQgZGj9Umg?start=2" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+According to Dan Brown (2006), “History is always written by the winners. When two cultures clash, the loser is obliterated, and the winner writes the history books-books which glorify their own cause and disparage the conquered foe. As Napoleon once said, 'What is history, but a fable agreed upon?”[@brown2006da].
+
+> "Alligators and crocodiles may look alike, but they have different behaviors and habitats." — Unknown
+
+
+Alligators have existed for over 150 million years, surviving through the dinosaur extinction [^1].
+
+[^1]: Alligators are considered living fossils due to their ancient lineage.
